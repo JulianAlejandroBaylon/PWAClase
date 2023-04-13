@@ -1,5 +1,5 @@
 //Asignar nombre y version de la cache
-const CACHE_NAME = 'v1_cache_BCH_PWA';
+const CACHE_NAME = 'v1_cache_JBN_PWA';
 
 //configuracion de los ficheros
 var urlsToCache = [
